@@ -2,8 +2,8 @@
 
 I'm Egor. A guy that codes his live on.
 
-ITMO IS 2nd year bachelor student.
+ITMO:love_hotel: IS 2nd year bachelor student.
 
 Trying out various languages, crunching hard on Swift and IOS development rignt now:crystal_ball:.
 
- Reach me: <i><b>@nazzrrg</b></i> basically everywhere, preferrably telegram.
+:email: Reach me: <i><b>@nazzrrg</b></i> basically everywhere, preferrably <a href="https://t.me/nazzrrg">Telegram</a>.
