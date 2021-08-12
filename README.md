@@ -2,7 +2,7 @@
 
 I'm Egor. The guy that codes his life on.
 
-ITMO:love_hotel: IS 2nd year bachelor student.
+ITMO:love_hotel: IS 3rd year bachelor student.
 
 Trying out various languages, crunching hard on Swift and IOS development rignt now:crystal_ball:
 
