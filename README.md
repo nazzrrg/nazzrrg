@@ -2,9 +2,9 @@
 
 I'm Egor. The guy that codes his life on.
 
-ITMO:love_hotel: IS 3rd year bachelor student.
+ITMO:love_hotel: IS 3rd year ITMO IS student(bachelor:man_student:).
 
-Trying out various languages, crunching hard on Swift and IOS development rignt now:crystal_ball:
+Junior backend C++ developer at <a href="https://www.diasoft.ru">Diasoft:crystal_ball:</a>
 
 :email: Reach me: <i><b>@nazzrrg</b></i> basically everywhere, preferrably <a href="https://t.me/nazzrrg">Telegram</a>.
 
