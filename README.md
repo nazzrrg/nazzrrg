@@ -4,7 +4,7 @@ I'm Egor. The guy that codes his life on.
 
 ITMO:love_hotel: IS 3rd year ITMO IS student(bachelor:man_student:).
 
-Junior backend C++ developer at <a href="https://www.diasoft.ru">Diasoft:crystal_ball:</a>
+C++ junior backend developer at <a href="https://www.diasoft.ru">Diasoft:crystal_ball:</a>
 
 :email: Reach me: <i><b>@nazzrrg</b></i> basically everywhere, preferrably <a href="https://t.me/nazzrrg">Telegram</a>.
 
