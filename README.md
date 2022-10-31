@@ -2,7 +2,7 @@
 
 I'm Egor. The guy that codes his life on.
 
-ITMO:love_hotel: IS 3rd year ITMO IS student(bachelor:man_student:).
+ITMO:love_hotel: IS 4rd year ITMO IS student(bachelor:man_student:).
 
 Backend developer at <a href="http://www.initi.ru/">INITI:crystal_ball:</a>
 
