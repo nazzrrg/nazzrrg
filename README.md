@@ -2,7 +2,7 @@
 
 I'm Egor. The guy that codes his life on.
 
-ITMO:love_hotel: IS 4rd year ITMO IS student(bachelor:man_student:).
+ITMO:love_hotel: IS 1st year ITMO CT student(masters:man_student:).
 
 Golang software engineer at <a href="https://www.sellematics.com/en/">Sellematics</a>
 
