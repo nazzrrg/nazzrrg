@@ -4,7 +4,7 @@ I'm Egor. The guy that codes his life on.
 
 ITMO:love_hotel: IS 1st year ITMO CT student(masters:man_student:).
 
-Golang software engineer at <a href="https://www.sellematics.com/en/">Sellematics</a>
+Golang software engineer at <a href="https://www.sberbank.com/">Sber</a>
 
 :email: Reach me: <i><b>@nazzrrg</b></i> basically everywhere, preferrably <a href="https://t.me/nazzrrg">Telegram</a>.
 
