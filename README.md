@@ -4,7 +4,7 @@ I'm Egor. The guy that codes his life on.
 
 ITMO:love_hotel: B.Sc Information Systems M.Sc Computer Science of ITMO, Saint-Petersburg, Russia.
 
-Golang software engineer at <a href="https://www.avito.ru/">Avito</a>
+Senior golang software engineer at <a href="https://www.aviasales.com/">Aviasales</a> ✈️
 
 :email: Reach me: <i><b>@nazzrrg</b></i> basically everywhere, preferrably <a href="https://t.me/nazzrrg">Telegram</a>.
 
